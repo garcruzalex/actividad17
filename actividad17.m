@@ -1,7 +1,7 @@
 % Octave Script
 % Title            :Funcion minimo material
 % Descrption       :Script para graficar una funcion de envase cilindrico
-% Authors          :Erick Gabriel Garcia,Alejandro Garcia Cruz
+% Authors          :Erick Gabriel Garcia , Alejandro Garcia Cruz
 % Date             :202123419
 % Version          :1
 % Usage			       :octave> /path/enviar
@@ -26,7 +26,6 @@ resr = fminbnd(ar,0,1);
  xlabel(['Minimo r = ' num2str(resr)]);
 %Etiqueta para y
  ylabel(['Min y = ' num2str( ar(resr))]);
- 
 
 
 
