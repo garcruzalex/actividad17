@@ -2,7 +2,7 @@
 % Title            :Funcion minimo material
 % Descrption       :Script para graficar una funcion de envase cilindrico
 % Authors          :Erick Gabriel Garcia,Alejandro Garcia Cruz
-% Date             :202123419
+% Date             :202123419 , 202123203
 % Version          :1
 % Usage			       :octave> /path/enviar
 % Notes			       :Se requiere aplicacion Octave
